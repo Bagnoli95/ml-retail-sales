@@ -22,8 +22,8 @@ La meta es entrenar varios modelos, evaluarlos y quedarnos con el que mejor resu
 En el local, ubicarse en el directorio donde desee descargar el proyecto.
 ```
 git init
-git clone https://github.com/Bagnoli95/ml-clasificacion-vinos.git
-cd ml-clasificacion-vinos
+git clone [https://github.com/Bagnoli95/ml-retail-sales.git](https://github.com/Bagnoli95/ml-retail-sales.git)
+cd ml-retail-sales
 ```
 
 # Como ejecutar el código:
