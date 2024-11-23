@@ -3,20 +3,16 @@
 La meta es entrenar varios modelos, evaluarlos y quedarnos con el que mejor resultado nos brinde.
 
 # La estructura del proyecto se compone:
-/ml-retail-sales
-|-- /data                             => Dentro de este directorio, se guarda el csv utilizado para entrenar el modelo
-| |-- dataset.csv
-|-- /notebooks                        => Aqui se guardan los archivos .ipynb donde están los algoritmos
-| |-- EDA.ipynb
-| |-- Preprocessing.ipynb
-| |-- Benchmarking.ipynb
-|-- /reports                          => Se guardan archivos utilizados para reporteria
-| |-- classification_report.txt
-| |-- confusion_matrix.png
-| |-- roc_curve.png
-|-- /presentation                     => Aqui se encontraran las presentaciones relacionadas a los resultados
-| |-- onepage_presentation.pptx
-|-- README.md                         => Usted está aqui.
+/data
+- Dentro de este directorio, se guarda el csv utilizado para entrenar el modelo
+/notebooks
+- Aqui se guardan los archivos .ipynb donde están los algoritmos
+/reports
+- Se guardan archivos utilizados para reporteria
+/presentation
+- Aqui se encontraran las presentaciones relacionadas a los resultados
+README.md
+- Usted está aqui.
 
 # Pasos para correr la aplicación en local
 En el local, ubicarse en el directorio donde desee descargar el proyecto.
