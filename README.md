@@ -4,15 +4,15 @@ La meta es entrenar varios modelos, evaluarlos y quedarnos con el que mejor resu
 
 # La estructura del proyecto se compone:
 /data
-- Dentro de este directorio, se guarda el csv utilizado para entrenar el modelo
+ Dentro de este directorio, se guarda el csv utilizado para entrenar el modelo
 /notebooks
-- Aqui se guardan los archivos .ipynb donde están los algoritmos
+ Aqui se guardan los archivos .ipynb donde están los algoritmos
 /reports
-- Se guardan archivos utilizados para reporteria
+ Se guardan archivos utilizados para reporteria
 /presentation
-- Aqui se encontraran las presentaciones relacionadas a los resultados
+ Aqui se encontraran las presentaciones relacionadas a los resultados
 README.md
-- Usted está aqui.
+ Usted está aqui.
 
 # Pasos para correr la aplicación en local
 En el local, ubicarse en el directorio donde desee descargar el proyecto.
